@@ -5,7 +5,7 @@ import App from "./App";
 import reportWebVitals from "./reportWebVitals";
 import "bootstrap/dist/css/bootstrap.css";
 import "font-awesome/css/font-awesome.css";
-
-ReactDOM.render(<App />, document.getElementById("root"));
+import Counter from "./components/counter";
+ReactDOM.render(<Counter />, document.getElementById("root"));
 
 reportWebVitals();
