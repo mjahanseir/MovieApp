@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import Movies from "./components/movies";
+import Movies from "./components/mov";
 import "./App.css";
 
 class App extends Component {
